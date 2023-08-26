@@ -8,7 +8,7 @@ pkg install git wget
 
 git clone https://github.com/Umair8906/Freefire-phishing
 
-cd FreeFire-Phishing
+cd Freefire-phishing
 
 chmod +x *
 
